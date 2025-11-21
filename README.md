@@ -5,7 +5,6 @@ To generate discrete auto correlation and cross correlation of signals using MAT
 
 ## APPARATUS REQUIRED:
 MATLAB R2012.
-
 ## ALGORITHM:
 Step 1: Open matlab. Write the program.
 
