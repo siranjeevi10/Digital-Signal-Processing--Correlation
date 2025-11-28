@@ -63,15 +63,17 @@ ylabel('Amplitude')
 title(' Discrete cross correlated waveform')
 ```
 ## Calculation:
-<img width="650" height="768" alt="image" src="https://github.com/user-attachments/assets/d0f098ed-c3a8-4fd1-b11a-f1d13c487856" />
+
+![WhatsApp Image 2025-11-28 at 2 08 03 PM](https://github.com/user-attachments/assets/47269ffb-d537-4c76-b2b0-67a74dbc3a40)
 
 ## OUTPUT:
-X1[n] ={2.3,3.2,-4.1,5.3,1.7,-2.9} X2[n]={3,4,-1.5,2,2.7,3.5,2}
-<img width="1920" height="1080" alt="Screenshot 2025-10-09 150009" src="https://github.com/user-attachments/assets/57e57ffe-6b9a-478c-baee-6471f5837d6f" />
+![WhatsApp Image 2025-11-28 at 12 30 51 PM (1)](https://github.com/user-attachments/assets/217c146a-f3b4-4f8d-a972-c92f5bacfb75)
+
 
 ## RESULT:
+![WhatsApp Image 2025-11-28 at 2 10 03 PM](https://github.com/user-attachments/assets/0fbb0186-24f2-4d0e-a783-0dfb1442ee82)
 
-<img width="754" height="272" alt="image" src="https://github.com/user-attachments/assets/8f33de64-fd62-4d16-bc30-a8fc3392d544" />
+
 
 
 
