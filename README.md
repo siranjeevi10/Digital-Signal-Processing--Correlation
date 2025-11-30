@@ -12,7 +12,7 @@ Step 3: Perform auto correlation and cross correlation for both the sequences.
 
 Step 4: Plot the output sequence with x-label and y-label with suitable title.
 
-Step 5: Terminate the program.
+Step 5: Terminate the program.,
 
 
 ## PROGRAM: 
