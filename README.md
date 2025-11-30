@@ -1,8 +1,6 @@
 # Digital-Signal-Processing--Correlation
-
 ## AIM:
 To generate discrete auto correlation and cross correlation of signals using MATLAB.
-
 ## APPARATUS REQUIRED:
 MATLAB R2012.
 ## ALGORITHM:
@@ -22,7 +20,6 @@ Step 5: Terminate the program.
 clc; % clear screen
 clear all; % clear screen
 close all; % close all figure windows
-
 % INPUT SIGNAL-1
 a=input('enter the starting x(n)');
 x=input('Enter the x(n) sequence');
@@ -32,7 +29,6 @@ stem(n,x)
 xlabel('Time')
 ylabel('Amplitude')
 title('Input Signal-1')
-
 % INPUT SIGNAL 2
 b=input('enter the starting y(n)');
 y=input('Enter the y(n) sequence');
@@ -43,7 +39,6 @@ stem(n1,y)
 xlabel('Time')
 ylabel('Amplitude')
 title('Input signal-2')
-
 % DISCRETE AUTO CORRELATED SIGNAL
 out1=xcorr(x,x)
 n2=a-m:1:length(out1)+a-m-1;
@@ -52,7 +47,6 @@ stem(n2,out1)
 xlabel('Time')
 ylabel('Amplitude')
 title(' Discrete auto correlated waveform')
-
 % DISCRETE CROSS CORRELATED SIGNAL
 Out2=xcorr(x,y);
 n3=a-m:1:length(Out2)+a-m-1;
@@ -62,8 +56,7 @@ xlabel('Time')
 ylabel('Amplitude')
 title(' Discrete cross correlated waveform')
 ```
-## Calculation:
-
+## CALCULATION:
 ![WhatsApp Image 2025-11-28 at 2 08 03 PM](https://github.com/user-attachments/assets/47269ffb-d537-4c76-b2b0-67a74dbc3a40)
 
 ## OUTPUT:
@@ -72,8 +65,3 @@ title(' Discrete cross correlated waveform')
 
 ## RESULT:
 ![WhatsApp Image 2025-11-28 at 2 10 03 PM](https://github.com/user-attachments/assets/0fbb0186-24f2-4d0e-a783-0dfb1442ee82)
-
-
-
-
-
